@@ -14,3 +14,6 @@ My script retrieved over 8,000 player names, and for each player name, some indi
 the teams they played for, the first year they entered the league, and the amount of games they have played in their career.
 
 Each player is formatted and stored as a JSON object, making it simple for me to fetch any player I want in an easy to interpret key-value pair.
+
+<img width="370" alt="scraper demo 1" src="https://github.com/user-attachments/assets/35da0dde-fb00-481b-8106-cc279764c5e2" />
+
